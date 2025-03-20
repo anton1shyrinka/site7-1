@@ -66,6 +66,6 @@ footer{
 }
 
 ul{
-    list-style-image: url(https://learn.logikaschool.com/uploads/2021/01/Arrow%201_0_1611261359.svg);
+    list-style-image: url('https://learn.logikaschool.com/uploads/2021/01/Arrow%201_0_1611261359.svg');
     font-size: 24px;
 }
