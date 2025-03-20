@@ -10,7 +10,7 @@ header{
     align-items: center;
 }
 
-img{
+.ttx{
     padding-left: 42px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -29,3 +29,11 @@ a{
     border-radius: 10px;
 }
 
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+
+img{
+    margin-left: 40px;
+}
