@@ -34,6 +34,33 @@ h1{
     font-size: 48px;
 }
 
-img{
+.image{
     margin-left: 40px;
+    margin-right: 40px;
+}
+
+h2{
+    color: #FF2C00;
+    font-size: 36px;
+}
+
+p{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 48px;
+    text-align: center;
+    border-top: 5px solid #000000;
+    border-bottom: 5px solid #000000;
+}
+
+footer{
+    background-color: #024C68;
+}
+
+.foot{
+    color: #FFFFFF;
+    font-size: 24px;
+    padding: 30px;
 }
